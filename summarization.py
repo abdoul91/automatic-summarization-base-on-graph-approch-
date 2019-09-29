@@ -7,7 +7,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
-class Sammurization :
+class Summarization :
         
     def __init__(self, corpus, sum_size = 5) :
         self.corpus = corpus
@@ -15,7 +15,7 @@ class Sammurization :
         self.scores     = ''
         self.similarite = '' 
         
-    def sumurize(self) :
+    def summarize(self) :
         tf_idf = tfIdf(self.corpus)
         self.similarite, degrees = similarite(tf_idf)
         self.scores  = powerMethod(self.similarite, degrees)
