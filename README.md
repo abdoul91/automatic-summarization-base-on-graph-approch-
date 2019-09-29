@@ -5,9 +5,9 @@ automatic summary of French documents using an extraction approach based on a gr
 ![alt](tex.png)
 ### Summarization
 #### Summary
-' doc    = Sammurization(corpus) 
-  my_sum = doc.sumurize()'
+''' doc    = Sammurization(corpus) 
+  my_sum = doc.sumurize()'''
  ![alt](s.png)
  #### Graph
- 'doc.graph()'
+ '''doc.graph()'''
  ![alt](g.png)
