@@ -2,7 +2,7 @@
 automatic summary of French documents using an extraction approach based on a graph method
 # Exemple
 ## Text to be summarize :
->S0: La police a procédé aux arrestations lors d’une manifestation à Lhassa, coïncidant avec le 49e anniversaire du départ        forcé du dalaï lama.\
+>> S0: La police a procédé aux arrestations lors d’une manifestation à Lhassa, coïncidant avec le 49e anniversaire du départ        forcé du dalaï lama.\
 S1: Une soixantaine de moines bouddhistes ont été arrêtés lundi à Lhassa, la capitale du Tibet, à l’occasion d’une                manifestation coïncidant avec le 49e anniversaire du départ forcé du dalaï lama, a affirmé mardi Radio Free Asia (RFA).\
 S2: Entre 50 et 60 manifestants ont été arrêtés par la police par les forces de l’ordre, qui ont également bloqué les routes et encerclé les monastères pour empêcher les manifestations de se propager.\
 S3: Cependant, onze personnes ont réussi à protester dans le centre de Lhassa avant d’être arrêtées, selon les mêmes sources citées par RFA.\
